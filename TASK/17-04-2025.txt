@@ -1,0 +1,6 @@
+1. Create a responsive image gallery using HTML and CSS.
+    a. use flexbox to create a responsive layout.
+    b. Should have a heading for the gallery.
+    c. Should have a description for the gallery.
+    d. Should have a description for each image.
+    e. Should have a button to open images in a new tab.
