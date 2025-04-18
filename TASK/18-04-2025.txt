@@ -1,0 +1,2 @@
+1. Design a hero section similar to the one on https://www.volvocars.com/in/ using HTML and CSS.
+2. Use an image as the background for a form without utilizing the background CSS property.
