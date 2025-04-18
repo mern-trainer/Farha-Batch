@@ -105,3 +105,20 @@ div{
     height: 100px;
     background-color: yellow;
 }
+
+.image-container{
+    position: relative;
+}
+
+.text-container{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+    width: 300px;
+}
+
+.btn{
+    background-color: white;
+    color: black;
+    padding: 10px;
+}
